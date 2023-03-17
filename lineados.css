@@ -1,0 +1,50 @@
+#mensajes{
+position: absolute;
+top: 100px;
+left: 30px;
+width: 200px;
+height: 356px;
+border: 4px solid #FFFAFA;
+}
+#chat{
+position: absolute;
+top: 100px;
+left: 280px;
+width: 200px;
+height: 356px;
+border: 4px solid #FFFAFA;
+}
+#mensaje{
+position: absolute;
+top: 100px;
+left: 530px;
+width: 200px;
+height: 356px;
+border: 4px solid #FFFAFA;
+}
+#conversacion{
+position: absolute;
+top: 100px;
+left: 780px;
+width: 200px;
+height: 356px;
+border: 4px solid #FFFAFA;
+}
+#dormido{
+position: absolute;
+top: 100px;
+left: 1030px;
+width: 200px;
+height: 356px;
+border: 4px solid #FFFAFA;
+}
+#sentimiento{
+position: absolute;
+top: 500px;
+left: 150px;
+width: 900px;
+height: 300px;
+border: 4px solid #FFFAFA;
+}
+
+
