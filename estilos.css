@@ -1,0 +1,22 @@
+#Fotos{
+width: 25%;
+height: 400px;
+margin: auto;
+border: 3px solid #9932CC;
+}
+#canciones{
+position: absolute;
+top: 140px;
+left: 30px;
+width: 300px;
+height: 400px;
+border: 3px solid #9932CC;
+}
+#Luceli{
+position: absolute;
+top: 140px;
+left: 950px;
+width: 300px;
+height: 650px;
+border: 3px solid #9932CC;
+}
